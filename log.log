@@ -1,0 +1,13 @@
+2016-05-30 11:22:45,844 [main] [org.apache.pdfbox.pdmodel.font.PDTrueTypeFont] [WARN] - Using fallback font 'ArialMT' for '�����е��߼�'
+ 2016-05-30 11:22:45,877 [main] [org.apache.pdfbox.pdmodel.font.PDTrueTypeFont] [WARN] - Using fallback font 'ArialMT' for '�����ڼ�'
+ 2016-05-30 11:22:45,885 [main] [org.apache.pdfbox.pdmodel.font.PDTrueTypeFont] [WARN] - Using fallback font 'ArialMT' for '����С���μ�'
+ 2016-05-30 11:22:45,934 [main] [org.apache.pdfbox.pdmodel.font.PDTrueTypeFont] [WARN] - Using fallback font 'ArialMT' for '��������'
+ 2016-05-30 11:22:46,032 [main] [org.apache.pdfbox.pdmodel.font.PDTrueTypeFont] [WARN] - Using fallback font 'ArialMT' for '����'
+ 2016-05-30 11:22:46,350 [main] [org.apache.pdfbox.pdmodel.font.PDTrueTypeFont] [WARN] - Using fallback font 'Arial-BoldMT' for '�����е��߼���,Bold'
+ 2016-05-30 14:41:58,370 [main] [org.apache.pdfbox.pdmodel.font.PDTrueTypeFont] [WARN] - Using fallback font 'ArialMT' for '�����е��߼�'
+ 2016-05-30 14:41:58,409 [main] [org.apache.pdfbox.pdmodel.font.PDTrueTypeFont] [WARN] - Using fallback font 'ArialMT' for '�����ڼ�'
+ 2016-05-30 14:41:58,422 [main] [org.apache.pdfbox.pdmodel.font.PDTrueTypeFont] [WARN] - Using fallback font 'ArialMT' for '����С���μ�'
+ 2016-05-30 14:41:58,480 [main] [org.apache.pdfbox.pdmodel.font.PDTrueTypeFont] [WARN] - Using fallback font 'ArialMT' for '��������'
+ 2016-05-30 14:41:58,573 [main] [org.apache.pdfbox.pdmodel.font.PDTrueTypeFont] [WARN] - Using fallback font 'ArialMT' for '����'
+ 2016-05-30 14:41:58,846 [main] [org.apache.pdfbox.pdmodel.font.PDTrueTypeFont] [WARN] - Using fallback font 'Arial-BoldMT' for '�����е��߼���,Bold'
+ 
